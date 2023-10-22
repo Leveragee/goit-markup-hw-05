@@ -181,7 +181,7 @@ background-size: cover;
     background-color: #ffffff;
     padding: 120px 0;
 }
-.vissually-hidden{ 
+.visually-hidden{ 
     position: absolute;
     width: 1px;
     height: 1px;
@@ -442,7 +442,7 @@ background-size: cover;
 }
 .footer-adress {
 }
-.footer-address-text {
+.footer-adress-text {
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
